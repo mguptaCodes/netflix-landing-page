@@ -7,12 +7,12 @@ A responsive clone of the Netflix India landing page built using **HTML**, **CSS
 
 ## Features
 
-→ Responsive design for desktop and mobile devices
-→ Netflix-inspired landing page
-→ Interactive FAQ accordion using JavaScript
-→ Sign-In page UI
-→ Clean and modern user interface
-→ Custom CSS styling
+➜ Responsive design for desktop and mobile devices  
+➜ Netflix-inspired landing page  
+➜ Interactive FAQ accordion using JavaScript  
+➜ Sign-In page UI  
+➜ Clean and modern user interface 
+➜ Custom CSS styling
 
 
 ## Technologies Used
